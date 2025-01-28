@@ -1,0 +1,1 @@
+''' this __init__.py file specify templatetags directory is a python packege file '''
