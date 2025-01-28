@@ -1,0 +1,16 @@
+body{
+background : url('https://images.unsplash.com/photo-1733858864100-138aaea0917b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0NHx8fGVufDB8fHx8fA%3D%3D')
+}
+
+h1{
+text-align : center;
+color:red;
+}
+
+table{
+color:white;
+margin:auto;
+border:2px yellow solid;
+padding:100px;
+}
+
